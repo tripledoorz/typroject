@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # tysx
 
 > A Vue.js project
